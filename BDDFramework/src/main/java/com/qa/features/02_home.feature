@@ -1,8 +1,8 @@
-Feature: GovernancePortal Application Home Test
+Feature: Google Application Home Test
 
 
 
-Scenario: GovernancePortal Home Page Test
+Scenario: Google Home Page Test
 
 
 
