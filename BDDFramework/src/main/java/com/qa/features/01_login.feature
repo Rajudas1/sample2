@@ -1,9 +1,9 @@
-Feature: GovernancePortal Application Login Test
+Feature: Google Application Login Test
 
 
 
 
-Scenario: GovernancePortal Login Page Test
+Scenario: Google Login Page Test
 
 
 
