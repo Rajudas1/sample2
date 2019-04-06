@@ -31,8 +31,8 @@ public class HookSteps extends TestBase{
         Reporter.setSystemInfo("Java Version", "1.8.0_151");
         
         TestBase.loadCommonSetting();
-        TestBase.initialization();
-        //TestBase.saucelablogin();
+        //TestBase.initialization();
+        TestBase.saucelablogin();
        
        
     } 
@@ -57,7 +57,7 @@ public class HookSteps extends TestBase{
     public void afterScenario() throws IOException{
 	    
         System.out.println("This will run after the Scenario");
-        //Reporter.addStepLog(link);
+        Reporter.addStepLog(link);
         driver.quit();
        
        

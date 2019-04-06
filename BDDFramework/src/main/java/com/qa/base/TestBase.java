@@ -142,7 +142,7 @@ public class TestBase {
 			  driver.manage().deleteAllCookies();
 			  driver.manage().timeouts().pageLoadTimeout(80, TimeUnit.SECONDS);
 			  driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);
-			  driver.get("http://18.214.138.13/governanceportalqa/index.html#/dashboard");
+			  driver.get("https://www.google.com/");
 			  
 	       
 	    } 
