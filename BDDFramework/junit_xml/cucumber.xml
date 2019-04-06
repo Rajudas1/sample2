@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="66.895082">
+<testcase classname="GovernancePortal Application Login Test" name="GovernancePortal Login Page Test" time="30.744218">
+<system-out><![CDATA[Given user opens browser....................................................passed
+Then users logs in to the app...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="GovernancePortal Application Home Test" name="GovernancePortal Home Page Test" time="36.150864">
+<system-out><![CDATA[Given user opens browser by hit the url.....................................passed
+Then users logs in to the app and land in to home...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
