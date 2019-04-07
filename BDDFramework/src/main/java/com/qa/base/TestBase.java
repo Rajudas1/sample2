@@ -36,8 +36,8 @@ public class TestBase {
 	 public static ExtentTest test;
 	 public static ExtentReports extent;
 		
-	 public final static String USERNAME = "reshmabhosale";
-	 public static final String ACCESS_KEY = "f133f8c7-d2e1-4393-b8fa-3a7087775ad3";
+	 public final static String USERNAME = "RajaSahoo";
+	 public static final String ACCESS_KEY = "64762960-54b7-4f65-a2dc-23d721909ca1";
 	 public static final String sauceURL = "https://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:443/wd/hub";
 		
 	 private static final Logger logger = Logger.getLogger(TestBase.class);
