@@ -36,7 +36,7 @@ public class TestBase {
 	 public static ExtentTest test;
 	 public static ExtentReports extent;
 		
-	 public final static String USERNAME = "swadhinsangram1";
+	 public final static String USERNAME = "swadhinsangram";
 	 public static final String ACCESS_KEY = "eea9d66a-ad30-43fa-8d4b-cd81889961a2";
 	 public static final String sauceURL1 = "https://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:443/wd/hub";
 		
